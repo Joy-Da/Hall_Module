@@ -33,8 +33,8 @@ and will add the manager. The manager then will add the students. Through this p
    ROLES              ACCESS to Create and Modify                                      ACCESS to only Read
   
  1) ADMIN:          Notice, Buildings, Rooms, Administration, Apply, Settings          Dashboard, Members, Accounting, Reports
- 2) MANAGER: 	      Members, Accounting, Apply                              	         Notice, Buildings, Rooms, Administration, Reports
- 3) STUDENT: 	      Members, Accounting, Apply                              	         Notice, Buildings, Rooms, Administration, Reports
+ 2) MANAGER: 	    Members, Accounting, Apply                              	       Notice, Buildings, Rooms, Administration, Reports
+ 3) STUDENT: 	    Members, Accounting, Apply                              	       Notice, Buildings, Rooms, Administration, Reports
 
  
 ### Prerequisites
@@ -47,7 +47,7 @@ and will add the manager. The manager then will add the students. Through this p
 
 - Clone the repository:
      ```bash 
-			git clone https://github.com/gobin-Da/Hall_Module.git
+			git clone https://github.com/Joy-Da/Hall_Module.git
 			cd HallModule
 - Open the project: Open 'Hostel.sln' in visual studio
 - Configure the database connection: Update the connection string in 'Web.config'
@@ -67,6 +67,6 @@ and will add the manager. The manager then will add the students. Through this p
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ### Contact
-For any inquiries or issues, please contact gobin-Da.
+For any inquiries or issues, please contact Joy-Da.
 
 
